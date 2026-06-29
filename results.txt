@@ -3,3 +3,8 @@ Date of Test: 2026-06-29 20:14:06
 Bubble Sort Time: 7.691457 seconds
 Quick Sort Time: 0.012747 seconds
 
+Computer Name: DESKTOP-0EBDH69
+Date of Test: 2026-06-29 20:19:43
+Bubble Sort Time: 3.055779 seconds
+Quick Sort Time: 0.007970 seconds
+
