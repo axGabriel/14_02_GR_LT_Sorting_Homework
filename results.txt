@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-MRIS2MQ
+Date of Test: 2026-06-29 20:14:06
+Bubble Sort Time: 7.691457 seconds
+Quick Sort Time: 0.012747 seconds
+
